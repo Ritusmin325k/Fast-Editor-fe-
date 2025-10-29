@@ -13,6 +13,19 @@ fe
 Then select a file and choose your preferred editor — all within the same terminal window.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-Supported-green?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-Compatible-green?logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Proot-Distro_Supported-yellow?logo=termux&logoColor=white">
+  <img src="https://img.shields.io/badge/Termux-Compatible-blue?logo=gnu-bash&logoColor=white">
+  <a href="https://github.com/Ritusmin325k">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
+  </a>
+  <a href="https://www.instagram.com/nullsenpai_31"
+    <img src="https://img.shields.io/badge/Instagram-Follow_Me-pink?logo=instagram">
+  </a>
+</p>
 
 ## 🔧 Features
 - Works directly in the same terminal window.
@@ -83,7 +96,10 @@ Choose editor:
   vim
   nvim
 ```
-
+## 📸 Screenshot
+<p align="center">
+  <img src="screenshot.png" width="600">
+</p>
 ---
 
 ## ⚙️ Requirements

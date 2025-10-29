@@ -22,7 +22,7 @@ Then select a file and choose your preferred editor — all within the same term
   <a href="https://github.com/Ritusmin325k">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github">
   </a>
-  <a href="https://www.instagram.com/nullsenpai_31"
+  <a href="https://www.instagram.com/nullsenpai_31">
     <img src="https://img.shields.io/badge/Instagram-Follow_Me-pink?logo=instagram">
   </a>
 </p>

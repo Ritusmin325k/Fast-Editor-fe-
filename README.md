@@ -1,6 +1,6 @@
 # fe (Fast Editor)
 <p align="center">
-  <img src="https://github.com/Ritusmin325k/Fast-Editor-fe-.git/logo.png" alt="fe Fast Editor Logo" width="200"/>
+  <img src="https://github.com/Ritusmin325k/Fast-Editor-fe-/blob/main/logo.png" alt="fe Fast Editor Logo" width="200"/>
 </p>
 
 `fe` (Fast Editor) is a lightweight terminal tool that helps you open and edit files faster in **Termux**, **Proot**, or **Linux**.  
